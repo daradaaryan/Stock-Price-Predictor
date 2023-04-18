@@ -1,4 +1,4 @@
-# Stock-Price-Predictor-using-Random-Forest-Regressor
+# Stock-Price-Predictor
 Stock Price Predictor for ML Challenge, HackRush 2023 IIT Gandhinagar
 ## 3. ML Challenge [C]
 Stakeholders: Dwip Dalal
