@@ -1,4 +1,5 @@
 # Stock-Price-Predictor
+## Members: Aaryan Darad, Abhay Upparwal, Arun Reddy
 Stock Price Predictor for ML Challenge, HackRush 2023 IIT Gandhinagar
 ## 3. ML Challenge [C]
 Stakeholders: Dwip Dalal
